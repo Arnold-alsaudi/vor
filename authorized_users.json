@@ -1,0 +1,41 @@
+{
+  "owner_id": 7199265775,
+  "users": {
+    "7199265775": {
+      "user_id": 7199265775,
+      "username": "المالك الأساسي",
+      "role": "owner",
+      "added_by": "system",
+      "added_date": "2025-07-20T07:55:24.696075",
+      "permissions": {
+        "can_report": true,
+        "can_add_users": true,
+        "can_remove_users": true,
+        "can_view_stats": true,
+        "can_manage_sessions": true
+      },
+      "status": "active",
+      "reports_sent": 0,
+      "last_activity": "2025-07-21T06:01:14.312817"
+    },
+    "8080902385": {
+      "user_id": 8080902385,
+      "username": "Toby (@ZT3T3)",
+      "role": "user",
+      "added_by": 7199265775,
+      "added_date": "2025-07-20T08:20:36.358162",
+      "permissions": {
+        "can_report": true,
+        "can_add_users": false,
+        "can_remove_users": false,
+        "can_view_stats": false,
+        "can_manage_sessions": false
+      },
+      "status": "active",
+      "reports_sent": 0,
+      "last_activity": "2025-07-20T08:20:36.358171"
+    }
+  },
+  "total_users": 2,
+  "created_date": "2025-07-20T07:55:24.696105"
+}

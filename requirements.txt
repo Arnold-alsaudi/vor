@@ -1,0 +1,26 @@
+# KEVIN BOT - متطلبات المشروع
+# Python Telegram Bot for Professional Reporting
+
+# Telethon - مكتبة Telegram API الأساسية
+telethon>=1.28.5
+
+# مكتبات إضافية للأمان والتشفير
+cryptg>=0.4.0
+
+# مكتبات معالجة البيانات
+aiofiles>=23.1.0
+
+# مكتبات التسجيل والمراقبة
+colorlog>=6.7.0
+
+# مكتبات التعامل مع JSON والتكوين
+python-dotenv>=1.0.0
+
+# مكتبات التعامل مع التاريخ والوقت
+python-dateutil>=2.8.2
+
+# مكتبات التعامل مع الشبكة
+aiohttp>=3.8.0
+
+# مكتبات التحقق من صحة البيانات
+validators>=0.20.0
